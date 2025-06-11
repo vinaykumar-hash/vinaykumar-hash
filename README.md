@@ -1,4 +1,6 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaykumar-hash/vinaykumar-hash/refs/heads/main/github_banner.png">
+</picture>
 ###
 
 <div align="center">
