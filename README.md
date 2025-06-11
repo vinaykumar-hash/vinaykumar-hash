@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="380" src="https://raw.githubusercontent.com/vinaykumar-hash/vinaykumar-hash/refs/heads/main/github_banner.png"  />
+  <img height="380" src="https://raw.githubusercontent.com/vinaykumar-hash/vinaykumar-hash/refs/heads/main/github_banner1.png"  />
 </div>
 
 <div align="center">
