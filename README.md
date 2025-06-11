@@ -1,16 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaykumar-hash/vinaykumar-hash/refs/heads/main/github_banner.png">
-</picture>
-###
+<div align="center">
+  <img height="380" src="https://raw.githubusercontent.com/vinaykumar-hash/vinaykumar-hash/refs/heads/main/github_banner.png"  />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vinaykumar-hash&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=15&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaykumar-hash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&border_radius=15&custom_title=I%20can%20Speak" height="200" alt="languages graph"  />
 </div>
 
-###
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
