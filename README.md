@@ -60,7 +60,7 @@
 
 ###
 
-<h align="center">Let's Connect 🤓</h>
+<p align="center">Let's Connect 🤓</p>
 
 ###
 
